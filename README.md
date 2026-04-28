@@ -1,25 +1,24 @@
-This is the [assistant-ui](https://github.com/assistant-ui/assistant-ui) starter project.
+# Chatbot App 🤖
 
-## Getting Started
+This is my AI chatbot project built using assistant-ui.
+
+## 🚀 Getting Started
 
 First, add your OpenAI API key to `.env.local` file:
 
-```
-OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-```
+OPENAI_API_KEY=your_api_key_here
 
-Then, run the development server:
+## ▶️ Run the project
 
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open:
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Used
+- Next.js
+- assistant-ui
+- OpenAI API
+
+## 📌 About
+This project is created to build and test an AI chatbot.
